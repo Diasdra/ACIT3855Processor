@@ -53,7 +53,7 @@ def populate_stats():
     
     trace_id = str(uuid.uuid4())
     logger.info(f"Start Periodic Processing with trace id of {trace_id}")
-    logger.info(f"SOME RANDOM MESSAGE IN ALL CAPS!(*$#($*(#*$(#*$")
+    logger.info(f"SOMEAUDHASUHDUHD*&$#*&$*#&$*&$")
     now = datetime.datetime.now()
 
     session = DB_SESSION()
