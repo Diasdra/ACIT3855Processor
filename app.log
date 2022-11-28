@@ -1,5 +1,5 @@
 2022-11-24 08:50:00,012 - basicLogger - DEBUG - debug message
-2022-11-24 08:50:00,016 - basicLogger - DEBUG - debug message
+2022-11-24 08:50:00,016 - basicLogger - DEBUG - debug messag
 2022-11-24 08:50:05,105 - basicLogger - INFO - Start Periodic Processing with trace id of b4b20ed0-c0bc-4bdf-94e7-01fd7a546cb7
 2022-11-24 08:50:10,557 - basicLogger - INFO - 54 events received from car returns
 2022-11-24 08:50:10,557 - basicLogger - INFO - 51 events received from car rentals
